@@ -1,4 +1,4 @@
-#Benchmarking Quantization Algorithms
+# Benchmarking Quantization Algorithms
 
 In this project, I compared the accuracy of neural networks of different QAT techniques. 
 From preliminary analysis the randomized permutation linear layer achieves better performance than naive quantization and hadamard quantization.
